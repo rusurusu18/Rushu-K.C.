@@ -40,11 +40,6 @@ Personal portfolio website showcasing skills & projects
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=rusurusu18&show_icons=true&theme=radical&hide_border=true)
-
----
 
 ## 🔥 GitHub Streak
 
@@ -59,16 +54,11 @@ Personal portfolio website showcasing skills & projects
 ---
 
 ## 🌐 Connect With Me
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rusurusu18)
-
-[![Instagram](https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rusu_rusu._)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/rusurusu18)
-
-[![Gmail](https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
-
-</div>
+<p align="left">
+<a href="https://linkedin.com/in/rusurusu18">LinkedIn</a> •
+<a href="https://instagram.com/rusu_rusu._">Instagram</a> •
+<a href="https://github.com/rusurusu18">GitHub</a>
+</p>
 
 ---
+
