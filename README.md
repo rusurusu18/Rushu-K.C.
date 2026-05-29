@@ -1,10 +1,12 @@
+<div align="left">
 # 𝑹𝒖𝒔𝒉𝒖 𝑲.𝑪. ✨
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=FF6EC7&center=true&vCenter=true&width=700&lines=Frontend+Developer;MERN+Stack+Explorer;UI%2FUX+Enthusiast;Crafting+clean+and+modern+web+experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=C084FC&center=true&vCenter=true&width=700&lines=Frontend+Developer;MERN+Stack+Explorer;UI%2FUX+Enthusiast;)](https://git.io/typing-svg)
 
 
 Turning complex code into elegant solutions
 
+</div>
 ---
 
 ## ✨ About Me
