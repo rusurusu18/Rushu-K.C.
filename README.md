@@ -1,6 +1,9 @@
-# 🚀 Hi, I'm Rushu K.C. ✨
+# 𝑹𝒖𝒔𝒉𝒖 𝑲.𝑪. ✨
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F5D4&width=700&lines=Frontend+Developer;React+%7C+Node+%7C+MongoDB+%7C+Express;UI%2FUX+Designer;Building+Modern+Web+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=FF6EC7&center=true&vCenter=true&width=700&lines=Frontend+Developer;MERN+Stack+Explorer;UI%2FUX+Enthusiast;Crafting+clean+and+modern+web+experiences)](https://git.io/typing-svg)
+
+
+Turning complex code into elegant solutions
 
 ---
 
@@ -54,9 +57,16 @@ Personal portfolio website showcasing skills & projects
 ---
 
 ## 🌐 Connect With Me
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rusurusu18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rusurusu18)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rusu_rusu._)
+[![Instagram](https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rusu_rusu._)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://github.com/rusurusu18)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/rusurusu18)
+
+[![Gmail](https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+
+</div>
+
+---
