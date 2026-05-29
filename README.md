@@ -1,8 +1,8 @@
 <div align="left">
-# 𝑹𝒖𝒔𝒉𝒖 𝑲.𝑪. ✨
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=C084FC&center=true&vCenter=true&width=700&lines=Frontend+Developer;MERN+Stack+Explorer;UI%2FUX+Enthusiast;)](https://git.io/typing-svg)
+<h1><span style="color: #1B365D;">𝑹𝒖𝒔𝒉𝒖 𝑲.𝑪. ✨</span></h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=1B365D&center=false&vCenter=true&width=450&lines=Frontend+Developer;MERN+Stack+Explorer;UI%2FUX+Enthusiast;)](https://git.io/typing-svg)
 
 Turning complex code into elegant solutions
 
